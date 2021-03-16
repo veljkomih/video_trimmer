@@ -3,10 +3,8 @@ description: A new Flutter project.
 
 version: 1.0.0+1
 
-publish_to: none
-
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: ">=2.1.0 <3.0.0"
 
 dependencies:
   flutter:
@@ -15,7 +13,7 @@ dependencies:
     path: ../
 
   cupertino_icons: ^0.1.2
-  image_picker: ^0.6.7+14
+  image_picker: ^0.6.7+11
   video_player: ^1.0.1
 
 dev_dependencies:
